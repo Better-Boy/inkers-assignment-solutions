@@ -16,7 +16,7 @@ Description for Assignments can be found out from Session files.
 In Order to run the ipython notebooks
 
 1. Clone the Repository.
-2. Use a google gmail account for google Colab, refer this link - [How to setup Google Colab](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+2. Use a google gmail account for google Colab, refer this link - [How to setup Google Colab](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 3. Upload the notebooks to your google drive account
 4. Double click on the notebooks, it automatically opens in colab or you have forgotten to add Colab as of one apps accessible    to your drive.
 
