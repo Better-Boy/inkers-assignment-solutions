@@ -11,7 +11,7 @@ A brief overview of the sessions are as follows:
 6.  **Session 6** - This session discussed on YOLO v2 and how to implement YOLO v2 by transfer learning.
 
 Description for Assignments can be found out from Session files.
-**All the Solutions for the assignments are my own.**
+**All the Solutions for the assignments in this repository are my own.**
 
 In Order to run the ipython notebooks
 
