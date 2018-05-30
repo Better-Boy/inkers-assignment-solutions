@@ -20,4 +20,6 @@ In Order to run the ipython notebooks
 3. Upload the notebooks to your google drive account
 4. Double click on the notebooks, it automatically opens in colab or you have forgotten to add Colab as of one apps accessible    to your drive.
 
-Some of the Assignment Solutions take 8-10 hrs to run on the GPU. So, wait patiently. Also models with highest accuracy with the given number of epochs will be stored.  
+Some of the Assignment Solutions take 8-10 hrs to run on the GPU. So, wait patiently. Also models with highest accuracy with the given number of epochs will be stored. 
+
+Session 6 assignment solution is taken from [pavisj](https://github.com/pavisj/YoloV3_video_colab/blob/master/Yolo_Darknet_Video_Without_Display.ipynb). Credits to [pavisj](https://github.com/pavisj)
