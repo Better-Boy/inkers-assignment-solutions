@@ -31,3 +31,5 @@ Luckily I got selected for session 7, 8, 9 and 10.
 7. **Session 7** - Discussed in detail about Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU) and Long Short Term                      Memory (LSTM). The materials for this session are excellent videos - [CS231n by Andrej Karpathy](https://www.youtube.com/watch?v=yCC09vCHzF8&index=10&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Evolution: from vanilla RNN to GRU & LSTMs (How it works) [RU]](https://www.youtube.com/watch?v=lycKqccytfU&feature=youtu.be)
 
   **Important Note** - The 2nd video was inspired by this very good blog - [Written Memories: Understanding,                                          Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html). The slides to the video can be found here - [link](https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24de73a70b_0_1267)
+
+Stay tuned for session 8, 9 and 10 materials
