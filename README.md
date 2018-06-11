@@ -28,7 +28,7 @@ Session 6 assignment solution is taken from [pavisj](https://github.com/pavisj/Y
 
 Luckily I got selected for session 7, 8, 9 and 10. 
 
-7. **Session 7** - Discussed in detail about Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU) and Long Short Term                      Memory (LSTM). The materials for this session are excellent videos - [CS231n by Andrej Karpathy](https://www.youtube.com/watch?v=yCC09vCHzF8&index=10&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Evolution: from vanilla RNN to GRU & LSTMs (How it works) [RU]](https://www.youtube.com/watch?v=lycKqccytfU&feature=youtu.be)
+7. **Session 7** - Discussed in detail about Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU) and Long Short Term                      Memory (LSTM). The materials for this session are excellent videos and a blog- [CS231n by Andrej Karpathy](https://www.youtube.com/watch?v=yCC09vCHzF8&index=10&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [Evolution: from vanilla RNN to GRU & LSTMs (How it works) [RU]](https://www.youtube.com/watch?v=lycKqccytfU&feature=youtu.be) and blog - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/) 
 
   **Important Note** - The 2nd video was inspired by this very good blog - [Written Memories: Understanding,                                          Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html). The slides to the video can be found here - [link](https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24de73a70b_0_1267)
 
