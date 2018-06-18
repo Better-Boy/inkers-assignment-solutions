@@ -32,4 +32,16 @@ Luckily I got selected for session 7, 8, 9 and 10.
 
   **Important Note** - The 2nd video was inspired by this very good blog - [Written Memories: Understanding,                                          Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html). The slides to the video can be found here - [link](https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24de73a70b_0_1267)
 
-Stay tuned for session 8, 9 and 10 materials
+8. **Session 8** - Discussed in detail about GANs and intro to Reinforcement Learning (RL). The materials for this session are                    as follows:  
+      1. Progressive GANs - [Link to video](https://www.youtube.com/watch?time_continue=25&v=XOxxPcy5Gr4)
+      2. Tutorial on GANs by Jeremy Howard (Fast.ai) - [Link](https://www.youtube.com/watch?v=ondivPiwQho)
+      3. Reinforcement Learning (Deep Q Learning) - [Deep Q Learning for Video Games - The Math of Intelligence #9 by Siraj Raval](https://www.youtube.com/watch?v=79pmNdyxEGo)
+      4. Reinforcement Learning (Actor Critic Learning) - [Actor Critic Algorithms by Siraj Raval](https://www.youtube.com/watch?v=w_3mmm0P0j8)
+  
+  **Additional Links and Tutorials**
+  1. Notes on WGAN - [Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
+  2. Session 8 also discussed about TensorRT - [Nvidia TensorRT](https://developer.nvidia.com/tensorrt)
+  3. [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+  4. [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+  
+Stay tuned for session 9 and 10 materials
