@@ -44,4 +44,9 @@ Luckily I got selected for session 7, 8, 9 and 10.
   3. [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
   4. [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
   
-Stay tuned for session 9 and 10 materials
+9.**Session 9** - Unfortunately I couldn't attend session 9. Therefore, I collected all the possible materials and topics                        discussed from my batchmates. These were the topics discussed in session 9:
+                   1. Embedding/Kernel Visualization and exploitation for different tasks - Watch this video ,[Bolei Thesis Defense: Interpretable Representation Learning for Visual Intelligence.](https://www.youtube.com/watch?v=J7Zz_33ZeJc)
+                   2. Artistic Style Transfer for videos - 2 minute papers,[Artistic Style Transfer For Videos | Two Minute Papers #68](https://www.youtube.com/watch?v=Uxax5EKg0zA)
+                   3. Using few internal layers and embeddings can be used to do fast object tracking - Materials for this are yet to be updated.
+                   
+ Stay tuned for Session 10.
