@@ -49,4 +49,8 @@ Luckily I got selected for session 7, 8, 9 and 10.
                    2. Artistic Style Transfer for videos - 2 minute papers,[Artistic Style Transfer For Videos | Two Minute Papers #68](https://www.youtube.com/watch?v=Uxax5EKg0zA)
                    3. Using few internal layers and embeddings can be used to do fast object tracking - Materials for this are yet to be updated.
                    
- Stay tuned for Session 10.
+10.**Session 10** - The following concepts were covered during session 10.
+   1. [One Shot Learning by Andrew NG](https://www.youtube.com/watch?v=Qgdn5AQfpoI)
+   2. [tSNE Visualizer](http://projector.tensorflow.org)
+   3. [Reinforcement Learning Basics](https://www.youtube.com/watch?v=Vz5l886eptw)
+   4. [Reinforcement Learning Survey](https://www.youtube.com/watch?v=9EN_HoEk3KY)
